@@ -1,0 +1,3 @@
+- Initial commit, forked from https://github.com/Minemaker0430/ExplorersOfSkyOrigins
+
+- Added totem entities to east and west entrances to Treasure Town

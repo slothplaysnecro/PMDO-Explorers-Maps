@@ -1,0 +1,12 @@
+<Header>
+  <Name>PMDO Explorers Maps</Name>
+  <Author>Sloth</Author>
+  <Description>A collection of maps from Explorers, ready to use in PMDO.
+  </Description>
+  <Namespace>PMDOEMAPS</Namespace>
+  <UUID>24139FE5-134F-498F-A91C-2D606E2F50F2</UUID>
+  <Version>0.1</Version>
+  <ModType>Quest</ModType>
+  <Relationships>
+  </Relationships>
+</Header>
