@@ -82580,7 +82580,7 @@
 {
 "Name": "Variant 2",
 "Layer": 0,
-"Visible": true,
+"Visible": false,
 "Tiles": [
 [
 {
@@ -87192,7 +87192,7 @@
 }
 ],
 "AssetName": "Temporal_Spire_Red_Sky",
-"Music": "",
+"Music": "Dialga's Fight To the Finish!.ogg",
 "EdgeView": 1,
 "NoSwitching": false,
 "ViewCenter": null,
